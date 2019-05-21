@@ -1,0 +1,34 @@
+name =peanut
+cord =10,10 10,20 20,20
+speed =1
+sprite_down =images\\Peanut_the_Pixel.png
+sprite_down =images\\Peanut_the_Pixel.png
+sprite_down =images\\Peanut_the_Pixel.png
+sprite_up =images\\Peanut_the_Pixel.png
+sprite_up =images\\Peanut_the_Pixel.png
+sprite_up =images\\Peanut_the_Pixel.png
+sprite_left =images\\Peanut_the_Pixel.png
+sprite_left =images\\Peanut_the_Pixel.png
+sprite_left =images\\Peanut_the_Pixel.png
+sprite_right =images\\Peanut_the_Pixel.png
+sprite_right =images\\Peanut_the_Pixel.png
+sprite_right =images\\Peanut_the_Pixel.png
+
+break
+
+name =Daddy
+cord =10,20 15,20 20,30
+speed =2
+sprite_down =images\\Dad_the_dad.png
+sprite_down =images\\Dad_the_dad.png
+sprite_down =images\\Dad_the_dad.png
+sprite_up =images\\Dad_the_dad.png
+sprite_up =images\\Dad_the_dad.png
+sprite_up =images\\Dad_the_dad.png
+sprite_left =images\\Dad_the_dad.png
+sprite_left =images\\Dad_the_dad.png
+sprite_left =images\\Dad_the_dad.png
+sprite_right =images\\Dad_the_dad.png
+sprite_right =images\\Dad_the_dad.png
+sprite_right =images\\Dad_the_dad.png
+break
